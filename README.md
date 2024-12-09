@@ -43,5 +43,6 @@ To create a 3D model from given orthographic projection.
 ## OUTPUT:
 ![Uploading 3.1_page-0001.jpg…]()
 
+
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
